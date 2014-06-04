@@ -1,0 +1,3 @@
+A small opelGL project that rendered a humandoid puppet which could be manipulated using the mouse.
+
+It relies on some proprietary libraries currently, so it will not build until that code gets replaced.
